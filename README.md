@@ -1,5 +1,7 @@
 # Mobile_game_analytics
 
+# Questions
+
 1. How many active monetizers were there on 2017-11-16? How many of those monetizers monetized between 2017-11-16 and 2017-11-23?
 
 2. Between 2017-12-09 and 2017-12-19, an A/B test was conducted to test players’ game preferences by making changes to certain game features of B group players.
